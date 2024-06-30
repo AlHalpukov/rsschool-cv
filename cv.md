@@ -57,3 +57,17 @@ var selectedItem = this.dataItem($(e.currentTarget).closest("tr")).toJSON();
     }
 ```
 ---
+
+## Education
+
+* Belarusian-Russian University, Mogilev, Faculty
+of Electrical Engineering
+* EPAM Performance Optimization Training
+
+---
+
+## Languages
+
+* Russian (Native)
+* English (B1)
+* Polish (A1)
